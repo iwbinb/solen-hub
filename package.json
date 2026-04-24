@@ -11,7 +11,7 @@
   "dependencies": {
     "@noble/ed25519": "^2.1.0",
     "@noble/hashes": "^1.4.0",
-    "@solen/wallet-sdk": "file:../vendor/wallet-sdk-ts"
+    "@solen/wallet-sdk": "file:./vendor/wallet-sdk-ts"
   },
   "devDependencies": {
     "typescript": "^5.4.0",

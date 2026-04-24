@@ -1,5 +1,6 @@
 node_modules/
-dist/
+/dist/
+!vendor/wallet-sdk-ts/dist/
 .DS_Store
 *.log
 .env
